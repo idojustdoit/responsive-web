@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   {{name}}
+   {{msg}}, {{name}}
   </div>
 </template>
 
